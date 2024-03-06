@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#piechart{
+    position: absolute;
+    left:20px;
+    bottom:20px;
+    border-radius: 15px;
+}
+
+#name
+{
+    background-color: #000;
+    color:#fff;
+    opacity: .2;
+    font-size: 120px;
+    padding: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+#audio{
+    position: absolute;
+    right: 25%;
+    top: 25%;
+}
