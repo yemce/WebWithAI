@@ -1,0 +1,27 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: #3498db;
+    border: 2px solid #2980b9;
+    border-radius: 10px; 
+}
+
+#myCanvas{
+    border: 1px solid #000;
+    background-color: #3498db;
+}
+
+#resultPredict{
+    position: absolute;
+    right:0px;
+    top: 0px;
+    padding: 10px;
+    background-color: #f00;
+    color:#fff;
+    margin: 20px;
+}
+
+#canvas{
+    padding-left: 10px;
+}
+
